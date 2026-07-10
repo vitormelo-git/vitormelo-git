@@ -1,16 +1,43 @@
-## Hi there 👋
+## ⚡Vitor Gabriel 
+-🏫 Eletrical Enginnering Studant (Enphasis in Electronics) - USP São Carlos
 
-<!--
-**vitormelo-git/vitormelo-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🧰 Currently delving deeper into embedded systems, Internet of things (IoT) and Electronic Simulations. 
 
-Here are some ideas to get you started:
+---
+### Languages and Technologies
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+    align="left" 
+    alt="Matlab" 
+    title="Matlab"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
+ />
+
+<img 
+    align="left" 
+    alt="Matlab" 
+    title="Matlab"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" 
+  />
+
+  
+          
+<br/>
+<br/>
+
+---
+
+### Contact
+
